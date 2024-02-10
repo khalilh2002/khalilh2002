@@ -22,13 +22,13 @@
 <br>
 
 
-```python
+```javascript
 
-Morrocan = {
-  'code': ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript','Java', 'C++', ],
-  'FrameWrok': [ 'QT/C++' , 'Laravel' , 'React' ],
-  'languages': ['English' , 'Frensh' , 'Arabic'],
-  'Hobbies': ['Music']
+const Morrocan = {
+  code: ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript','Java', 'C++', ],
+  FrameWrok: [ 'QT/C++' , 'Laravel' , 'React' ],
+  languages: [ 'English' , 'Frensh' , 'Arabic' ],
+  Hobbies: [ 'Music' ]
 }
 
 ```
@@ -39,10 +39,12 @@ Morrocan = {
 
 <div align="left">
 
-<img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="300px" align="right">
+
+<img src="./assets/img.jpg " alt="nice" width="300px" align="right">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
