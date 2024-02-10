@@ -22,12 +22,6 @@
 <br>
 
 
-<img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="200px" >
-
-
-<br>
-
-
 ```python
 
 Morrocan = {
@@ -40,6 +34,8 @@ Morrocan = {
 ```
 
 <hr>
+
+<img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="200px" align="right">
 
 ## Statics 
 
