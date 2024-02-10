@@ -23,7 +23,7 @@
 
 <img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="200px" align="right">
 
-<h2><em><b>Software Enginner at <a href="https://fstt.ac.ma/Portail2023/"> the Faculty of Science and Technology Tangier </a> </b></em></h2>
+<h3><em><b>Software Enginner at <a href="https://fstt.ac.ma/Portail2023/"> the Faculty of Science and Technology Tangier </a> </b></em></h3>
 
 <br>
 
