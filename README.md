@@ -4,8 +4,6 @@
 
 </div>
 
-
-
 <div align="center">
 
 <img  src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/code.gif" alt="nice" width="250px">
@@ -15,7 +13,7 @@
 [![GitHub](https://img.shields.io/github/followers/Khalil?label=follow&style=social)](https://github.com/khalilh2002) 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalilh2002&label=Profile+Views)
 
-## Hi, I'am Khalil El Houssine  ⌨ '!!'
+<h2> Hi, I'am Khalil El Houssine  ⌨ '!!' </h2>
 
 <h3><em><b>Software Enginner at <a href="https://fstt.ac.ma/Portail2023/"> the Faculty of Science and Technology Tangier </a> </b></em></h3>
 
