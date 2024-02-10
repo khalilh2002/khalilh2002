@@ -13,7 +13,7 @@
 ```python
 
 Morrocan = {
-  'code': ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript', 'C++', 'SQL'],
+  'code': ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript','Java', 'C++', ],
   'FrameWrok': [ 'QT/C++' , 'Laravel' , 'React' ]
 }
 
