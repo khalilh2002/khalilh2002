@@ -1,8 +1,13 @@
 
 # Welcome !!📷
 
+<div align="center">
 
-<img align="center" src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/code.gif" alt="nice" width="250px">
+<img  src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/code.gif" alt="nice" width="250px">
+
+
+</div>
+
 
 <div align="center">
 
