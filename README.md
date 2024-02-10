@@ -35,11 +35,11 @@ Morrocan = {
 
 <hr>
 
-<img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="300px" align="right">
-
 ## Statics 
 
 <div align="left">
+
+<img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="300px" align="right">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
