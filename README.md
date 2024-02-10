@@ -1,5 +1,8 @@
+<div align="center">
 
 # Welcome !!📷
+
+</div>
 
 
 
@@ -12,9 +15,11 @@
 [![GitHub](https://img.shields.io/github/followers/Khalil?label=follow&style=social)](https://github.com/khalilh2002) 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalilh2002&label=Profile+Views)
 
+## Hi, I'am Khalil El Houssine  ⌨ '!!'
+
+
 </div>
 
-## Hi, I'am Khalil El Houssine  ⌨ '!!'
 
 <img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="200px" align="right">
 
@@ -33,4 +38,15 @@ Morrocan = {
 
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikhalilh2002=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<hr>
+
+## Statics 
+
+<div align="left">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
