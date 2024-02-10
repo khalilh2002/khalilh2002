@@ -14,7 +14,9 @@
 
 Morrocan = {
   'code': ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript','Java', 'C++', ],
-  'FrameWrok': [ 'QT/C++' , 'Laravel' , 'React' ]
+  'FrameWrok': [ 'QT/C++' , 'Laravel' , 'React' ],
+  'languages': ['English' , 'Frensh' , 'Arabic'],
+  'Hobbies': ['Music']
 }
 
 ```
