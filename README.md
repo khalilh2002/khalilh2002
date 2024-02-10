@@ -1,6 +1,8 @@
 
 # Welcome !!📷
 
+
+
 <div align="center">
 
 <img  src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/code.gif" alt="nice" width="250px">
@@ -30,3 +32,5 @@ Morrocan = {
 }
 
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikhalilh2002=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
