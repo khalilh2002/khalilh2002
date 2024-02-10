@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/-KhalilElHoussine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/khalilelhoussine/)
 [![GitHub](https://img.shields.io/github/followers/Khalil?label=follow&style=social)](https://github.com/khalilh2002)
 
+<img src="https://komarev.com/ghpvc/?username=khalilh2002" alt="nice" width="200px" align="center">
+
 ```python
 
 Morrocan = {
