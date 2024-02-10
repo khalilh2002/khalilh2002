@@ -13,11 +13,13 @@
 [![GitHub](https://img.shields.io/github/followers/Khalil?label=follow&style=social)](https://github.com/khalilh2002) 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalilh2002&label=Profile+Views)
 
-<h2> Hi, I'am Khalil El Houssine  ⌨ '!!' </h2>
+## Hi, I'am Khalil El Houssine  ⌨ '!!'
 
 <h3><em><b>Software Enginner at <a href="https://fstt.ac.ma/Portail2023/"> the Faculty of Science and Technology Tangier </a> </b></em></h3>
 
 </div>
+
+<hr>
 
 
 <img src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/img.jpg " alt="nice" width="200px" align="right">
