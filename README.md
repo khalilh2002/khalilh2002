@@ -25,9 +25,9 @@
 ```javascript
 
 const Morrocan = {
-  code: ['HTML', 'CSS', 'Python', 'PHP' ,'JavaJavascript','Java', 'C++', ],
-  FrameWrok: [ 'QT/C++' , 'Laravel' , 'React' ],
-  languages: [ 'English' , 'Frensh' , 'Arabic' ],
+  code: ['HTML', 'CSS', 'Python', 'PHP', 'Javascript', 'Java', 'C++', ],
+  FrameWrok: [ 'QT/C++', 'Laravel', 'React' ],
+  languages: [ 'English', 'French', 'Arabic' ],
   Hobbies: [ 'Music' ]
 }
 
