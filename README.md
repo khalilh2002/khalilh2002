@@ -26,7 +26,7 @@
 
 const Morrocan = {
   code: ['HTML', 'CSS', 'Python', 'PHP','C++', 'Java', 'C#' ,'Javascript' ],
-  FrameWrok-and-Tools : [  'Symfony', 'React', 'QT/C++' , 'Laravel' ,'Unity' ],
+  FrameWrok_and_Tools : [  'Symfony', 'React', 'QT/C++' , 'Laravel' ,'Unity' ],
   languages: [ 'English', 'French', 'Arabic' ],
   Hobbies: [ 'Music' , 'Film' , 'Anime']
 }
