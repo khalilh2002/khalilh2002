@@ -45,7 +45,7 @@ const Morrocan = {
 <br/><br/>
 
 ### 🔧 Backend Development  
-<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,php,mysql,postgres,mongodb,postman" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,php,mysql,postgres,mongodb,symfony,postman" alt="Backend" />
 <br/><br/>
 
 ### ⚙️ Tools & DevOps  
