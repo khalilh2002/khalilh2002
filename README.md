@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img  src="https://github.com/khalilh2002/khalilh2002/blob/main/assets/code.gif" alt="nice" width="250px">
+<img  src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" width="500px">
 
 
 [![LinkedIn](https://img.shields.io/badge/-KhalilElHoussine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/khalilelhoussine/)
