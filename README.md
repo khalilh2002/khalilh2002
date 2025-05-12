@@ -74,17 +74,17 @@ const Morrocan = {
 
 ## Statics 
 
-<div align="left">
 
 
 <img src="./assets/img.jpg " alt="nice" width="300px" align="right">
+<div align="left">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![](https://github-readme-stats.vercel.app/api?username=khalilh2002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalilh2002&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilh2002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khalilh2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khalilh2002&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-
+<p align="left">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilh2002&theme=github_dark" alt="khalilh2002" />
+</p>
 </div>
 
