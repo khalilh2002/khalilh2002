@@ -22,12 +22,12 @@
     <b>📚 Software Engineering Student at <a href="https://fstt.ac.ma/Portail2023/">Faculty of Science and Technology Tangier</a> 🎓</b>
   </p>
 
-  <div align="center" width="100%">
-    <table width="100%">
+  <div align="center" >
+    <table >
       <tr>
         <td>
           <h3>🌐 Languages</h3>
-          <ul align="left">
+          <ul align="left" width="400px">
             <li>English</li>
             <li>French</li>
             <li>Arabic</li>
@@ -40,6 +40,7 @@
             <li>Music</li>
             <li>Films</li>
             <li>Anime</li>
+            <li></li>
           </ul>
         </td>
       </tr>
@@ -99,8 +100,8 @@
 
 <div align="center">  
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=khalilh2002&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilh2002&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=khalilh2002&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="47%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilh2002&theme=tokyonight&hide_border=true" width="52%" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilh2002&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilh2002&theme=tokyonight" width="100%" alt="Profile Summary"/>
   </div>
