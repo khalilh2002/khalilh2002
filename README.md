@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"> 
+
 <!-- <img src="https://steamuserimages-a.akamaihd.net/ugc/90472114705174546/41ED95ACE18D194A63D0DE3F826EA01B5F3D34DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="background" width="100%" style="border-radius: 10px;"> -->
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=0A0CAC&font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;I'm+El+Houssine+Khalil!;" />
@@ -62,7 +63,8 @@
 <details open align="center">
   <summary><h3>🔧 Backend Development</h3></summary>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,dotnet,php,java,javascript,mysql,postgres,mongodb,symfony,postman" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,dotnet,php,java,javascript,mysql,postgres,mongodb,symfony,postman,kafka" alt="Backend" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   </div>
 </details>
 
